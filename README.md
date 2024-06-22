@@ -22,6 +22,6 @@ This is a simple Rock, Paper, Scissors game implemented using JavaScript, HTML, 
    ```bash
    git clone https://github.com/yourusername/rock-paper-scissors-game.git
    cd rock-paper-scissors-game
-Open index.html in Your Browser
+Open mini.html in Your Browser
 
-Simply open the index.html file in your web browser to start playing the game.
+Simply open the mini.html file in your web browser to start playing the game.
